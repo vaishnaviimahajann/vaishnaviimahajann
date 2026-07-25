@@ -9,8 +9,8 @@
 
 <div align="center">
 
-<a href="https://portfolio-p0zp.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-6E5BA6?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="https://portfolio-p0zp.onrender.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-455A64?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
+<a href="https://portfolio-p0zp.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-6E5BA6?style=plastic&logo=vercel&logoColor=white&scale=2"></a>
+<a href="https://portfolio-p0zp.onrender.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-455A64?style=plastic&logo=readdotcv&logoColor=white&scale=2"></a>
 
 </div>
 
