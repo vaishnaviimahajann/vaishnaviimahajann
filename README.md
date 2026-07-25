@@ -6,12 +6,13 @@
 - 💼 Web Development Intern at **Drops of Change Welfare NGO**
 - 📍 Pune, India
 
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6E5BA6?style=plastic&logo=vercel&logoColor=white)](https://portfolio-p0zp.onrender.com/) [![Resume](https://img.shields.io/badge/Resume-455A64?style=plastic&logo=readdotcv&logoColor=white)](https://portfolio-p0zp.onrender.com/resume.pdf)
+<a href="https://portfolio-p0zp.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-6E5BA6?style=plastic&logo=vercel&logoColor=white" height="35"></a>
+<a href="https://portfolio-p0zp.onrender.com/resume.pdf"><img src="https://img.shields.io/badge/Resume-455A64?style=plastic&logo=readdotcv&logoColor=white" height="35"></a>
 
 </div>
-
 
 
 
